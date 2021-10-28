@@ -1,0 +1,16 @@
+2021-10-23T11:50:05.797+1100 INFO Starting TransactionsApplicationTests using Java 16.0.2 on AbdulramansMini with PID 70461 (started by abdotech in /Users/abdotech/Documents/GitHub/BookerooApp-SEPT/BackEnd/transactionsmicroservice)
+2021-10-23T11:50:05.802+1100 DEBUG Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-23T11:50:05.803+1100 INFO No active profile set, falling back to default profiles: default
+2021-10-23T11:50:51.928+1100 INFO Started TransactionsApplicationTests in 46.322 seconds (JVM running for 48.433)
+2021-10-23T11:50:58.525+1100 INFO Starting TransactionsApplicationTests using Java 16.0.2 on AbdulramansMini with PID 70492 (started by abdotech in /Users/abdotech/Documents/GitHub/BookerooApp-SEPT/BackEnd/transactionsmicroservice)
+2021-10-23T11:50:58.528+1100 DEBUG Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-23T11:50:58.529+1100 INFO No active profile set, falling back to default profiles: default
+2021-10-23T11:51:44.386+1100 INFO Started TransactionsApplicationTests in 46.046 seconds (JVM running for 47.299)
+2021-10-23T11:54:12.561+1100 INFO Starting TransactionsApplicationTests using Java 16.0.2 on AbdulramansMini with PID 70576 (started by abdotech in /Users/abdotech/Documents/GitHub/BookerooApp-SEPT/BackEnd/transactionsmicroservice)
+2021-10-23T11:54:12.566+1100 DEBUG Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-23T11:54:12.567+1100 INFO No active profile set, falling back to default profiles: default
+2021-10-23T11:55:00.869+1100 INFO Started TransactionsApplicationTests in 48.499 seconds (JVM running for 49.674)
+2021-10-23T11:59:22.823+1100 INFO Starting TransactionsApplicationTests using Java 16.0.2 on AbdulramansMini with PID 70690 (started by abdotech in /Users/abdotech/Documents/GitHub/BookerooApp-SEPT/BackEnd/transactionsmicroservice)
+2021-10-23T11:59:22.831+1100 DEBUG Running with Spring Boot v2.5.5, Spring v5.3.10
+2021-10-23T11:59:22.832+1100 INFO No active profile set, falling back to default profiles: default
+2021-10-23T12:00:12.953+1100 INFO Started TransactionsApplicationTests in 50.314 seconds (JVM running for 51.48)
